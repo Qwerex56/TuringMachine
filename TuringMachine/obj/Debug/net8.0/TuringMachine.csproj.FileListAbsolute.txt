@@ -1,0 +1,14 @@
+E:\Dev\RiderProjects\TuringMachine\TuringMachine\bin\Debug\net8.0\TuringMachine.exe
+E:\Dev\RiderProjects\TuringMachine\TuringMachine\bin\Debug\net8.0\TuringMachine.deps.json
+E:\Dev\RiderProjects\TuringMachine\TuringMachine\bin\Debug\net8.0\TuringMachine.runtimeconfig.json
+E:\Dev\RiderProjects\TuringMachine\TuringMachine\bin\Debug\net8.0\TuringMachine.dll
+E:\Dev\RiderProjects\TuringMachine\TuringMachine\bin\Debug\net8.0\TuringMachine.pdb
+E:\Dev\RiderProjects\TuringMachine\TuringMachine\obj\Debug\net8.0\TuringMachine.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\RiderProjects\TuringMachine\TuringMachine\obj\Debug\net8.0\TuringMachine.AssemblyInfoInputs.cache
+E:\Dev\RiderProjects\TuringMachine\TuringMachine\obj\Debug\net8.0\TuringMachine.AssemblyInfo.cs
+E:\Dev\RiderProjects\TuringMachine\TuringMachine\obj\Debug\net8.0\TuringMachine.csproj.CoreCompileInputs.cache
+E:\Dev\RiderProjects\TuringMachine\TuringMachine\obj\Debug\net8.0\TuringMachine.dll
+E:\Dev\RiderProjects\TuringMachine\TuringMachine\obj\Debug\net8.0\refint\TuringMachine.dll
+E:\Dev\RiderProjects\TuringMachine\TuringMachine\obj\Debug\net8.0\TuringMachine.pdb
+E:\Dev\RiderProjects\TuringMachine\TuringMachine\obj\Debug\net8.0\TuringMachine.genruntimeconfig.cache
+E:\Dev\RiderProjects\TuringMachine\TuringMachine\obj\Debug\net8.0\ref\TuringMachine.dll
