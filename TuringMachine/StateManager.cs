@@ -2,6 +2,7 @@
 
 public static class StateManager {
     private static State? _currentState;
+    public static State? CurrentState => _currentState;
 
     public static HashSet<State> LoadFromFile(string path = "") {
         // TODO: Load from file logic

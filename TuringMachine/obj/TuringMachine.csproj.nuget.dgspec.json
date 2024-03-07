@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "/home/adrianczubaty/Dokumenty/TuringMachine/TuringMachine/TuringMachine.csproj": {}
+    "E:\\Dev\\RiderProjects\\TuringMachine\\TuringMachine\\TuringMachine.csproj": {}
   },
   "projects": {
-    "/home/adrianczubaty/Dokumenty/TuringMachine/TuringMachine/TuringMachine.csproj": {
+    "E:\\Dev\\RiderProjects\\TuringMachine\\TuringMachine\\TuringMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/adrianczubaty/Dokumenty/TuringMachine/TuringMachine/TuringMachine.csproj",
+        "projectUniqueName": "E:\\Dev\\RiderProjects\\TuringMachine\\TuringMachine\\TuringMachine.csproj",
         "projectName": "TuringMachine",
-        "projectPath": "/home/adrianczubaty/Dokumenty/TuringMachine/TuringMachine/TuringMachine.csproj",
-        "packagesPath": "/home/adrianczubaty/.nuget/packages/",
-        "outputPath": "/home/adrianczubaty/Dokumenty/TuringMachine/TuringMachine/obj/",
+        "projectPath": "E:\\Dev\\RiderProjects\\TuringMachine\\TuringMachine\\TuringMachine.csproj",
+        "packagesPath": "C:\\Users\\qwere\\.nuget\\packages\\",
+        "outputPath": "E:\\Dev\\RiderProjects\\TuringMachine\\TuringMachine\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\qwere\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/adrianczubaty/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\qwere\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\qwere\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
